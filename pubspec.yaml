@@ -1,0 +1,52 @@
+name: pezeshkhub1
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  glass_kit: ^3.0.0
+  get: ^4.6.6
+  http: ^1.1.2
+  flutter_secure_storage: ^9.0.0
+  shared_preferences: ^2.2.2
+  sizer: ^2.0.15
+  audioplayers: ^6.0.0
+  lottie: ^3.1.2
+  dio: ^5.4.3+1
+  flutter_riverpod: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/animations/
+    - assets/sounds/
+
+
+  fonts:
+    - family: vazir
+      fonts:
+        - asset: assets/fonts/Vazir-Medium.ttf
+    #       - asset: fonts/Schyler-Italic.ttf
+    #         style: italic
+    - family: iransans
+      fonts:
+        - asset: assets/fonts/IRANSansWeb(FaNum).ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+
