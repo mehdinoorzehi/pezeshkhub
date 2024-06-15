@@ -24,11 +24,11 @@
 ## تصاویر برنامه
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="assets/1.png" alt="Image 1" style="width: 30%;">
-    <img src="assets/2.png" alt="Image 2" style="width: 30%;">
-    <img src="assets/3.png" alt="Image 3" style="width: 30%;">
-    <img src="assets/4.png" alt="Image 4" style="width: 30%;">
-    <img src="assets/5.png" alt="Image 5" style="width: 30%;">
+    <img src="assets/1.jpg" alt="Image 1" style="width: 30%;">
+    <img src="assets/2.jpg" alt="Image 2" style="width: 30%;">
+    <img src="assets/3.jpg" alt="Image 3" style="width: 30%;">
+    <img src="assets/4.jpg" alt="Image 4" style="width: 30%;">
+    <img src="assets/5.jpg" alt="Image 5" style="width: 30%;">
 
 </div>
 
